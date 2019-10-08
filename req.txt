@@ -1,1 +1,1 @@
-oe-sphinx-theme
+PSphinxTheme
